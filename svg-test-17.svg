@@ -12,7 +12,7 @@
         <xhtml:head>
         </xhtml:head>
         <xhtml:body>
-            <xhtml:embed src="javascript:alert(1)"></xhtml:embed>
+            <xhtml:embed src="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></xhtml:embed>
         </xhtml:body>
       </xhtml:xhtml>
     </foreignObject>
