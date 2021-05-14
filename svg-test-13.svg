@@ -12,7 +12,7 @@
         <xhtml:head>
         </xhtml:head>
         <xhtml:body>
-          <xhtml:object data="javascript:alert('hello')"></xhtml:object>
+          <xhtml:object data="javascript:alert(document.location)"></xhtml:object>
         </xhtml:body>
       </xhtml:xhtml>
     </foreignObject>
