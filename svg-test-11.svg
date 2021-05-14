@@ -12,8 +12,7 @@
         <xhtml:head>
         </xhtml:head>
         <xhtml:body>
-            <a:script xmlns:a="http://www.w3.org/1999/xhtml">alert(1)</a:script>
-          <xhtml:image width="10" height="10" type="image/svg+xml" data="http://webhook.site/6f43eab5-8170-43ed-85c0-eed4a2085918" onerror="alert(1)"></xhtml:image>
+          <xhtml:image width="10" height="10" data="javascript:alert('hello')"></xhtml:image>
         </xhtml:body>
       </xhtml:xhtml>
     </foreignObject>
