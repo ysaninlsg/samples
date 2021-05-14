@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <defs>
+        <font id="x">
+            <font-face font-family="y"/>
+        </font>
+    </defs>
+    <foreignObject x="0" y="0" width="10" height="10">
+      <xhtml:xhtml>
+        <xhtml:head>
+        </xhtml:head>
+        <xhtml:body>
+          <xhtml:object data="alert(document.location)"></xhtml:object>
+        </xhtml:body>
+      </xhtml:xhtml>
+    </foreignObject>
+</svg>
+
