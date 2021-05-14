@@ -12,7 +12,7 @@
         <xhtml:head>
         </xhtml:head>
         <xhtml:body>
-          <xhtml:image width="10" height="10" data="javascript:alert('hello')"></xhtml:image>
+          <xhtml:object data="javascript:alert('hello')"></xhtml:object>
         </xhtml:body>
       </xhtml:xhtml>
     </foreignObject>
