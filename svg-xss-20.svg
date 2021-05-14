@@ -11,8 +11,7 @@
       <xhtml:xhtml>
         <xhtml:head>
         </xhtml:head>
-        <xhtml:body onload="alert(1)">
-            <xhtml:embed src="data:text/html;base64,PHNjcmlwdD5hbGVydChkb2N1bWVudC5sb2NhdGlvbik8L3NjcmlwdD4="></xhtml:embed>
+        <xhtml:body onload="alert(document.location)">
         </xhtml:body>
       </xhtml:xhtml>
     </foreignObject>
