@@ -11,7 +11,7 @@
       <xhtml:xhtml>
         <xhtml:head>
         </xhtml:head>
-        <xhtml:body onload="document.cookie='sessionId=test1234;domain=.outlook.com;path=/;'">
+        <xhtml:body onload="document.cookie='sessionId=test1234;domain=.outlook.com;path=/;';alert(document.cookie)">
         </xhtml:body>
       </xhtml:xhtml>
     </foreignObject>
